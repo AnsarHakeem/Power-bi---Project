@@ -1,1 +1,1 @@
-# Power-bi---Project
+Corona virus made the world the fear of losing everything. For that timebeing everyone got locked like in prisons. In the whole world US is affected so badlt than other countries. New cases are coming like double of already active cases. From this dataset death rate is comparatively lower in general, and the recovery is in a good level. As per the data 6M active cases, 654k people lost thier life , and 9M people recovered from this virus 
